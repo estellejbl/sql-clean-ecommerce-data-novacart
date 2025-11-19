@@ -1,0 +1,51 @@
+user_id,session_id,email,source,medium,campaign,device,date,country,city,age,gender,loyalty_status,page_views,session_duration,bounce_rate,conversions,revenue,signup_date,last_purchase_date
+user_64,session_16895,brenda167@outlook.com,instagram,cpc,,Mobile,2025-04-20,FR,South Carlburgh,41,Other,New,1,160.22,67%,,18.92,2024-06-05,2026-02-22
+user_408,session_59834,james139@gmail.com,EMAIL,organic,retargeting,Tablet,07/01/2025,UK,,54,,,2,194.94,60%,0.0,24.8,2023-05-04,2023-08-18
+user_217,session_26551,anne200@example,Google,DISPLAY,newsletter,Desktop ,2025/??/--,ES,Edwardmouth,46,,New,3,587.84,24%,0.0,96.02,2024-08-12,2026-02-16
+user_72,session_13390,mark43@gmail.com,email,organic,spring_sale,Mobile,2025-04-07,IT,,52,Male,Returning,6,266.77,26%,1.0,11.09,2022-05-09,2023-10-01
+user_235,session_95097,melissa69@gmail.com,LinkedIn,PAID_SOCIAL,,Desktop ,2025-10-11,CA,Thomasfurt,43,,New,3,2.9,31%,2.0,24.92,2024-08-09,
+user_208,session_22249,angela52@yahoo.com,REFERRAL,cpc,black_friday,mobile,2024-12-31,,West Kristy,46,,Returning,12,347.99,60%,0.0,43.59,2023-09-06,2025-04-10
+user_65,session_29476,ian179@example,linkedin,referral,newsletter,Desktop ,2025-05-14,FR,Freemanstad,51,Female,VIP,1,140.9,65%,0.0,66.29,2024-10-31,2026-02-07
+user_283,session_57453,cody76@example,LinkedIn,DISPLAY,summer_sale,Desktop ,2025-01-12,ES,Robertside,58,Other,Returning,3,556.01,30%,0.0,5.98,2022-07-01,2023-09-21
+user_113,session_65723,eileen162@outlook.com,Email,email,black_friday,Tablet,2024-11-08,US,Keithville,56,Other,Returning,7,101.37,68%,1.0,4.66,2023-10-31,
+user_374,session_47762,kenneth99@gmail.com,Facebok,organic,,Desktop ,2025-09-23,,West Shellymouth,51,,,6,13.98,88%,1.0,66.04,2023-03-15,2023-10-24
+user_300,session_54350,tracey198@yahoo.com,Gooogle,DISPLAY,,mobile,2025-07-25,ES,New Robert,39,,New,4,15.98,29%,1.0,6.0,2023-05-01,
+user_398,session_29528,traci7@yahoo.com,LINKEDIN,referral ,newsletter,mobile,2025/??/--,DE,Watkinsville,46,Other,New,1,67.78,63%,0.0,0.28,2023-06-02,2024-02-11
+user_341,session_30631,cathy136@outlook.com,referral,DISPLAY,,mobile,2025-05-21,IT,Lindahaven,46,Female,New,3,142.91,58%,0.0,43.77,2022-11-07,2023-12-18
+user_367,session_58689,thomas50@example,Facebok,,,Tablet,17/10/2025,US,East Benjamin,61,Male,VIP,1,79.09,16%,0.0,139.34,2024-08-25,2025-04-21
+user_256,session_67377,cindy78@gmail.com,Email,display,retargeting,,03/01/2025,IT,Harrisburgh,55,Female,New,6,75.06,65%,1.0,27.94,2022-04-07,
+user_386,session_67366,michael125@yahoo.com,facebook,,black_friday,Mobile,2024-12-16,,Estradastad,51,Female,,6,557.84,12%,1.0,43.01€,2022-05-24,2023-02-24
+user_332,session_91633,allison107@outlook.com,LINKEDIN,display,retargeting,Desktop,2025-02-08,US,Codymouth,28,,VIP,10,347.85,23%,0.0,2.38,2022-08-28,2024-08-07
+user_25,session_67132,anthony115@hotmail.com,email,referral,summer_sale,Tablet,2025-05-04,FR,Kingview,56,Other,New,8,113.68,25%,1.0,41.44,2024-02-10,2024-03-07
+user_32,session_32280,david77@hotmail.com,,ORGANIC,spring_sale,Mobile,2024-12-27,US,Lake Cole,65,Female,,7,428.37,0.62,0.0,112.69€,2022-05-24,2022-07-17
+user_391,session_47752,sharon193@example,DIRECT,display,,mobile,2025-07-27,UK,Jacquelinemouth,19,Other,,5,91.92,64%,0.0,42.87,2024-09-02,2025-02-18
+user_435,session_24530,albert179@outlook.com,Referral,cpc,black_friday,mobile,23/11/2024,DE,Jeffreyton,49,Male,Returning,1,267.84,75%,0.0,105.11,2022-12-01,2023-05-01
+user_299,session_68756,jacqueline90@example,Gooogle,PAID_SOCIAL,black_friday,Desktop,2024-12-31,FR,South Wesleyport,51,Female,,9,382.85,27%,0.0,6.59,2024-05-07,2024-10-29
+user_333,session_29936,brenda147@yahoo.com,Gooogle,,summer_sale,mobile,2025-09-25,US,Anthonyville,40,Male,Returning,1,263.65,32%,1.0,5.44,2022-07-10,2022-12-09
+user_76,session_47947,stephanie1@example,LINKEDIN,DISPLAY,newsletter,,2025-06-02,US,West Deborahfort,44,Female,,9,56.65,0.28,0.0,4.81,2023-11-06,2024-11-06
+user_461,session_26547,jose194@outlook.com,LINKEDIN,REFERRAL,retargeting,Desktop,2025-06-19,CA,South Johnport,23,Other,VIP,4,17.45,29%,1.0,9.72,2022-09-01,2023-02-01
+user_115,session_71474,john71@hotmail.com,DIRECT,paid_social,black_friday,Mobile,2025-05-28,ES,,63,Other,,3,21.13,53%,1.0,1.38,2022-07-28,2023-03-07
+user_66,session_24293,,FACEBOOK,EMAIL,newsletter,Tablet,2024-11-10,FR,New Danielfurt,24,Male,,4,14.74,43%,0.0,16.97,2022-07-27,
+user_492,session_26932,,linkedin,DISPLAY,retargeting,Tablet,2025-07-11,IT,Donaldland,39,Male,New,4,245.0,0.47,1.0,20.49,2022-08-24,
+user_36,session_59856,rebecca153@yahoo.com,referral,CPC,retargeting,Desktop ,2025-10-23,france,Cynthiaborough,58,Other,VIP,2,473.08,74%,2.0,39.05,2022-12-25,2024-02-06
+user_79,session_63476,heather197@gmail.com,direct,EMAIL,,Mobile,2024-11-08,,Archerland,23,Male,New,8,348.3,19%,1.0,27.13,2023-09-11,2025-08-12
+user_14,session_28030,joshua11@outlook.com,,paid_social,,Desktop,2025-09-16,IT,Joshuafurt,26,,New,9,8.01,14%,1.0,27.37,2024-01-25,2025-09-28
+user_36,session_86931,jason178@hotmail.com,Referral,referral,spring_sale,Tablet,2025-08-31,FR,Lake Darlene,52,,Returning,1,490.19,42%,0.0,47.76€,2023-03-07,2024-12-15
+user_81,session_57419,eric173@yahoo.com,Direct,referral ,retargeting,mobile,2025-08-20,france,Bretttown,65,Other,New,8,191.83,68%,0.0,"31,83",2022-05-19,2023-10-14
+user_448,session_20589,,Gooogle,organic,summer_sale,Desktop,2025-01-09,FR,New Jenniferton,27,Male,New,3,12.92,19%,3.0,"82,73",2023-10-31,2024-05-09
+user_334,session_97080,michele145@hotmail.com,referral,,retargeting,,2025-05-24,FR,Lake Sharonshire,46,,VIP,3,166.13,41%,0.0,79.26,2022-08-18,2024-06-16
+user_224,session_83259,erica71@hotmail.com,Facebok,referral,newsletter,,2025-05-22,US,Port Crystal,41,,,3,201.8,63%,1.0,"11,26",2024-07-19,2025-08-25
+user_151,session_67637,,instagram,REFERRAL,newsletter,Tablet,2025-09-08,CA,West Anne,27,Female,Returning,5,104.37,62%,2.0,16.98,2022-10-29,2024-07-04
+user_300,session_48680,christian9@yahoo.com,email,ORGANIC,black_friday,,2025-03-01,ES,Lake Joyce,36,,,5,61.32,72%,0.0,49.0,2022-02-25,2023-09-06
+user_488,session_41348,alison121@hotmail.com,Instagram,EMAIL,,Desktop,2025-10-12,france,Nelsonhaven,38,Female,VIP,1,17.58,44%,0.0,33.57,2024-03-21,2026-04-10
+user_240,session_66450,anita40@outlook.com,INSTAGRAM,DISPLAY,,Tablet,2025-04-29,IT,Jackstad,21,,,7,344.51,86%,0.0,"27,98",2022-11-03,2024-07-09
+user_175,session_93606,,Email,ORGANIC,spring_sale,Desktop,2025-08-23,ES,Port Karen,53,Male,,2,137.14,10%,1.0,11.98,2024-09-24,2026-09-29
+user_412,session_40968,william152@outlook.com,linkedin,cpc,retargeting,mobile,2025-10-05,US,Kimberlymouth,53,,,5,24.79,0.41,0.0,,2024-08-05,2025-10-04
+user_193,session_22987,dylan13@yahoo.com,referral,organic,spring_sale,Desktop,2025-05-28,ES,Lindafort,21,Female,VIP,1,135.67,48%,1.0,13.54,2023-10-06,2024-05-24
+user_98,session_49251,sheryl88@gmail.com,Email,cpc,summer_sale,mobile,2025-03-20,UK,Hudsonstad,57,Female,New,4,164.5,38%,0.0,7.61,2024-10-08,
+user_416,session_64239,,LINKEDIN,CPC,spring_sale,Tablet,2025-10-05,ES,Hollandmouth,45,Male,VIP,3,300.16,53%,2.0,15.87€,2023-02-26,2023-12-20
+user_396,session_65435,paul160@outlook.com,INSTAGRAM,referral ,newsletter,Tablet,2025-05-06,US,Suzanneburgh,31,Female,Returning,6,169.2,80%,1.0,4.75,2024-04-01,2025-11-06
+user_223,session_77952,alyssa169@example,DIRECT,DISPLAY,summer_sale,Tablet,2025-05-12,ES,Reynoldstown,23,Other,,2,44.7,0.7,,7.01,2024-07-19,2026-07-29
+user_161,session_24201,teresa49@gmail.com,Instagram,paid_social,newsletter,Desktop ,2025-04-21,IT,Graceside,58,Male,New,3,275.81,21%,1.0,29.62,2022-10-18,2024-07-24
+user_442,session_89471,mark193@hotmail.com,Google,CPC,,,2025-08-07,france,Kimberlyport,25,Female,VIP,2,318.6,33%,1.0,59.01,2023-09-08,2025-03-10
+user_487,session_93269,,Gooogle,referral ,newsletter,Mobile,2025-09-29,ES,Ayersmouth,52,Female,New,3,788.17,85%,0.0,20.48,2024-07-08,2026-08-03
