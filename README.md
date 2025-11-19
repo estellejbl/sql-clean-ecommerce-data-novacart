@@ -1,5 +1,5 @@
 
-<h1 align="center"> # 🧹 E-commerce Dataset Cleaning </h1>
+<h1 align="center"> 🧹 E-commerce Dataset Cleaning </h1>
 
 <p align="center">
   <a href="#"><img alt="Made with PostgreSQL" src="https://img.shields.io/badge/Made%20with-PostgreSQL-6e3931?style=for-the-badge"></a>
